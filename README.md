@@ -2,6 +2,8 @@
 
 Materialize framework built for usage in AMD ecosystem
 
+DISCLAIMER: just provides built materialize.js, for css and for foreign dependencies (jQuery), please, install 
+original materialize alongside.
 
 ## Installation & usage
 
