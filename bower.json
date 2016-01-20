@@ -1,10 +1,11 @@
 {
   "name": "materialize-amdified",
+  "version": "0.97.5",
   "authors": [
     "Yurij Mikhalevich <0@39.yt>"
   ],
   "description": "Materialize framework built for usage in AMD ecosystem",
-  "main": "index.js",
+  "main": "materialize.amd.js",
   "moduleType": [
     "amd"
   ],
@@ -20,6 +21,10 @@
     "bower_components",
     "lib",
     "test",
-    "tests"
-  ]
+    "tests",
+    "src"
+  ],
+  "devDependencies": {
+    "materialize": "0.97.x"
+  }
 }
