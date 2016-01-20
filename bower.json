@@ -1,0 +1,25 @@
+{
+  "name": "materialize-amdified",
+  "authors": [
+    "Yurij Mikhalevich <0@39.yt>"
+  ],
+  "description": "Materialize framework built for usage in AMD ecosystem",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "materialize",
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/39dotyt/materialize-amdified",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ]
+}
